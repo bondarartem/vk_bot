@@ -1,0 +1,15 @@
+{
+	"type": "message_new", 
+	"object": {
+		"id": 2, 
+		"date": 1574502289, 
+		"out": 0, 
+		"user_id": 195194669, 
+		"read_state": 0, 
+		"title": "", 
+		"body": "Привет", 
+		"owner_ids": []
+	}, 
+	"group_id": 188996934, 
+	"event_id": "8b8958e11f5bc98f1844ce30efb162dd652e20c5"
+}
