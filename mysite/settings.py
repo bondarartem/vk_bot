@@ -27,8 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ["5910de54.ngrok.io", "127.0.0.1"]
 CORS_ORIGIN_WHITELIST = ["5910de54.ngrok.io"]
-
-
+DISABLE_COLLECTSTATIC = 1
 # Application definition
 
 INSTALLED_APPS = [
